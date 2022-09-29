@@ -22,6 +22,8 @@
 ## Api Documentation
   - shorturl.at/fkrz3
 ## Test Case
-  - https://docs.google.com/spreadsheets/d/1bo8lqUaEjhXaX2A435rMusVZhmg9DFwtt2yz6RGKah8/edit#gid=0
+  - https://docs.google.com/spreadsheets/d/1bo8lqUaEjhXaX2A435rMusVZhmg9DFwtt2yz6RGKah8/edit?usp=sharing
+## Issue Report
+  - https://docs.google.com/spreadsheets/d/1hHxy-7YFWLGnLCoQ4sOTFCUjP71L8kmWO3BQGzP6rXs/edit?usp=sharing
 ## Output
 ![Capture](https://user-images.githubusercontent.com/85132422/192863092-e20fff22-1fdd-469e-af8f-6be33c9e985e.PNG)

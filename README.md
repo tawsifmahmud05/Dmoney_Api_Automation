@@ -20,7 +20,7 @@
 ## Prerequisite
   - Node.js must be installed
 ## Api Documentation
-  - shorturl.at/fkrz3
+  - shorturl.at/elmPT
 ## Test Case
   - https://docs.google.com/spreadsheets/d/1bo8lqUaEjhXaX2A435rMusVZhmg9DFwtt2yz6RGKah8/edit?usp=sharing
 ## Issue Report

@@ -3,7 +3,7 @@
 ## Technology and tool used
   - Postman
   - Newman
-## Scenerios
+## Test Scenerios
   - Login into System as Admin
   - Create Agent
   - Create Customers

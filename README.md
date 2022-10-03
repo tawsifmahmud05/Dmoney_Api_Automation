@@ -1,5 +1,6 @@
 # Dmoney_Api_Automation
-
+## Prerequisite
+  - Node.js must be installed
 ## Technology and tool used
   - Postman
   - Newman
@@ -17,8 +18,6 @@
   - Run these following command
   ``` npm i ```
   ``` npm test ```
-## Prerequisite
-  - Node.js must be installed
 ## Api Documentation
   - https://documenter.getpostman.com/view/16265005/2s83mhkMWP
 ## Test Case
